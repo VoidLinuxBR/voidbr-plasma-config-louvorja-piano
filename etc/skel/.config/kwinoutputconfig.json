@@ -2,21 +2,41 @@
     {
         "data": [
             {
+                "abmLevel": 0,
                 "allowDdcCi": true,
                 "allowSdrSoftwareBrightness": true,
+                "autoBrightnessCurve": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
                 "autoRotation": "InTabletMode",
+                "automaticBrightness": false,
                 "brightness": 1,
                 "colorPowerTradeoff": "PreferEfficiency",
                 "colorProfileSource": "sRGB",
                 "connectorName": "Virtual-1",
+                "customModes": [
+                ],
                 "detectedDdcCi": false,
-                "edidHash": "bb6ad72dc802b000932c73ad20996ae5",
+                "edidHash": "9aa921335eacd5aba488a4a010b12289",
                 "edidIdentifier": "RHT 4660 0 42 2014 0",
                 "edrPolicy": "always",
+                "hdrColorProfileSource": "EDID",
+                "hdrIccProfilePath": "",
                 "highDynamicRange": false,
                 "iccProfilePath": "",
                 "maxBitsPerColor": 0,
                 "mode": {
+                    "flags": 0,
                     "height": 768,
                     "refreshRate": 60015,
                     "width": 1360
@@ -26,6 +46,7 @@
                 "scale": 1,
                 "sdrBrightness": 200,
                 "sdrGamutWideness": 0,
+                "sharpness": 0,
                 "transform": "Normal",
                 "uuid": "3fad3f2e-18e5-4b7c-a42a-6fee5e311b62",
                 "vrrPolicy": "Never",
