@@ -1,0 +1,302 @@
+org.kde.startup: not a reply org.freedesktop.locale1 QDBusMessage(type=Error, service="", error name="org.freedesktop.DBus.Error.ServiceUnknown", error message="The name org.freedesktop.locale1 was not provided by any .service files", signature="s", contents=("The name org.freedesktop.locale1 was not provided by any .service files") )
+kf.service.services: The desktop file "/usr/share/applications/chili-datetime.desktop" references the action "Window" but doesn't define it
+kf.service.services: The desktop file "/usr/share/applications/chili-datetime.desktop" references the action "Document" but doesn't define it
+kf.service.services: The desktop file "/usr/share/applications/chili-xrandr.desktop" references the action "Window" but doesn't define it
+kf.service.services: The desktop file "/usr/share/applications/chili-xrandr.desktop" references the action "Document" but doesn't define it
+kf.service.services: The desktop file "/usr/share/applications/chili-wifi-config.desktop" references the action "Window" but doesn't define it
+kf.service.services: The desktop file "/usr/share/applications/chili-wifi-config.desktop" references the action "Document" but doesn't define it
+kf.service.services: The desktop file "/usr/share/applications/chili-dialog-theme-selector.desktop" references the action "Window" but doesn't define it
+kf.service.services: The desktop file "/usr/share/applications/chili-dialog-theme-selector.desktop" references the action "Document" but doesn't define it
+kf.service.services: The desktop file "/usr/share/applications/chili-util-selector.desktop" references the action "Window" but doesn't define it
+kf.service.services: The desktop file "/usr/share/applications/chili-util-selector.desktop" references the action "Document" but doesn't define it
+kf.service.services: The desktop file "/usr/share/applications/chili-clonedisk.desktop" references the action "Window" but doesn't define it
+kf.service.services: The desktop file "/usr/share/applications/chili-clonedisk.desktop" references the action "Document" but doesn't define it
+kf.service.services: The desktop file "/usr/share/applications/chili-iso2usb.desktop" references the action "Window" but doesn't define it
+kf.service.services: The desktop file "/usr/share/applications/chili-iso2usb.desktop" references the action "Document" but doesn't define it
+/usr/bin/xrdb: No such file or directory
+/usr/bin/xrdb: Can't open display ''
+xcb_connect() failed
+QPixmap: QGuiApplication must be created before calling defaultDepth().
+QPixmap: QGuiApplication must be created before calling defaultDepth().
+dbus-daemon[1542]: [session uid=1000 pid=1542 pidfd=5] Activating service name='org.kde.KSplash' requested by ':1.0' (uid=1000 pid=1543 comm="/usr/bin/startplasma-wayland")
+dbus-daemon[1542]: [session uid=1000 pid=1542 pidfd=5] Activating service name='org.freedesktop.portal.Desktop' requested by ':1.4' (uid=1000 pid=1574 comm="/usr/bin/kcminit_startup")
+dbus-daemon[1542]: [session uid=1000 pid=1542 pidfd=5] Activating service name='org.freedesktop.impl.portal.PermissionStore' requested by ':1.5' (uid=1000 pid=1577 comm="/usr/libexec/xdg-desktop-portal")
+dbus-daemon[1542]: [session uid=1000 pid=1542 pidfd=5] Successfully activated service 'org.freedesktop.impl.portal.PermissionStore'
+dbus-daemon[1542]: [session uid=1000 pid=1542 pidfd=5] Activating service name='org.freedesktop.portal.Documents' requested by ':1.5' (uid=1000 pid=1577 comm="/usr/libexec/xdg-desktop-portal")
+dbus-daemon[1542]: [session uid=1000 pid=1542 pidfd=5] Successfully activated service 'org.freedesktop.portal.Documents'
+dbus-daemon[1542]: [session uid=1000 pid=1542 pidfd=5] Activating service name='org.freedesktop.impl.portal.desktop.kde' requested by ':1.5' (uid=1000 pid=1577 comm="/usr/libexec/xdg-desktop-portal")
+Failed to gain real time thread priority (See CAP_SYS_NICE in the capabilities(7) man page). error: Operation not permitted
+No backend specified, automatically choosing drm
+Failed to gain real time thread priority (See CAP_SYS_NICE in the capabilities(7) man page). error: Operação não permitida
+kwin_xkbcommon: XKB: /usr/share/X11/locale/pt_BR.UTF-8/Compose:13:28: this compose sequence already exists; overriding
+kwin_xkbcommon: XKB: /usr/share/X11/locale/pt_BR.UTF-8/Compose:14:28: this compose sequence already exists; overriding
+kwin_xkbcommon: XKB: /usr/share/X11/locale/pt_BR.UTF-8/Compose:16:34: this compose sequence already exists; overriding
+kwin_xkbcommon: XKB: /usr/share/X11/locale/pt_BR.UTF-8/Compose:17:34: this compose sequence already exists; overriding
+kwin_xkbcommon: XKB: /usr/share/X11/locale/pt_BR.UTF-8/Compose:19:39: a sequence already exists which is a prefix of this sequence; overriding
+Failed to gain real time thread priority (See CAP_SYS_NICE in the capabilities(7) man page). error: Operação não permitida
+kwin_core: Failed to open drm node: ""
+kwin_scene_opengl: couldn't find dev node for drm device 
+kwin_screencast: Failed to connect PipeWire context
+Initializing  "/usr/lib/qt6/plugins/plasma/kcms/systemsettings/kcm_mouse.so"
+libEGL warning: egl: failed to create dri2 screen
+libEGL warning: egl: failed to create dri2 screen
+libEGL warning: egl: failed to create dri2 screen
+libEGL warning: egl: failed to create dri2 screen
+Initializing  "/usr/lib/qt6/plugins/plasma/kcms/systemsettings/kcm_fonts.so"
+dbus-daemon[1542]: [session uid=1000 pid=1542 pidfd=5] Successfully activated service 'org.freedesktop.impl.portal.desktop.kde'
+dbus-daemon[1542]: [session uid=1000 pid=1542 pidfd=5] Successfully activated service 'org.kde.KSplash'
+
+(/usr/libexec/xdg-desktop-portal:1577): xdg-desktop-portal-WARNING **: 22:26:33.481: Failed connect to PipeWire: Couldn't connect to PipeWire
+dbus-daemon[1542]: [session uid=1000 pid=1542 pidfd=5] Successfully activated service 'org.freedesktop.portal.Desktop'
+kf.kirigami.platform: Failed to find a Kirigami platform plugin for style "Fusion"
+Refusing to try glamor on llvmpipe
+XWAYLAND: Disabling GLAMOR support
+EGL setup failed, disabling glamor
+Failed to initialize glamor, falling back to sw
+The XKEYBOARD keymap compiler (xkbcomp) reports:
+> Warning:          Could not resolve keysym XF86RefreshRateToggle
+> Warning:          Could not resolve keysym XF86Accessibility
+> Warning:          Could not resolve keysym XF86DoNotDisturb
+Errors from xkbcomp are not fatal to the X server
+dbus-daemon[1542]: [session uid=1000 pid=1542 pidfd=5] Activating service name='org.a11y.Bus' requested by ':1.14' (uid=1000 pid=1997 comm="busctl call --user org.a11y.Bus /org/a11y/bus org.")
+The XKEYBOARD keymap compiler (xkbcomp) reports:
+> Warning:          Unsupported maximum keycode 708, clipping.
+>                   X11 cannot support keycodes above 255.
+> Warning:          Virtual modifier Hyper multiply defined
+>                   Using 0, ignoring 0
+> Warning:          Virtual modifier ScrollLock multiply defined
+>                   Using 0, ignoring 0
+Errors from xkbcomp are not fatal to the X server
+dbus-daemon[1542]: [session uid=1000 pid=1542 pidfd=5] Successfully activated service 'org.a11y.Bus'
+Initializing  "/usr/lib/qt6/plugins/plasma/kcms/systemsettings/kcm_style.so"
+Initializing  "/usr/lib/qt6/plugins/plasma/kcms/systemsettings/kcm_fonts.so"
+Initializing  "/usr/lib/qt6/plugins/plasma/kcms/systemsettings/kcm_style.so"
+org.kde.plasma.session: process job  "kcminit_startup" finished with exit code  0
+dbus-daemon[1542]: [session uid=1000 pid=1542 pidfd=5] Activating service name='org.gtk.vfs.Daemon' requested by ':1.19' (uid=1000 pid=2001 comm="/usr/libexec/ibus-x11")
+libEGL warning: egl: failed to create dri2 screen
+libEGL warning: egl: failed to create dri2 screen
+dbus-daemon[1542]: [session uid=1000 pid=1542 pidfd=5] Successfully activated service 'org.gtk.vfs.Daemon'
+org.kde.kameleon: found no RGB LED devices
+org.kde.libkbolt: Failed to connect to Bolt manager DBus interface: 
+org.kde.bolt.kded: Couldn't connect to Bolt DBus daemon
+dbus-daemon[2015]: Activating service name='org.a11y.atspi.Registry' requested by ':1.0' (uid=1000 pid=2117 comm="/usr/bin/ksmserver --no-lockscreen")
+kf.kio.gui: Failed to determine systemd version, falling back to extremely legacy forking mode.
+Initializing  "/usr/lib/qt6/plugins/plasma/kcms/systemsettings/kcm_touchpad.so"
+Initializing  "/usr/lib/qt6/plugins/plasma/kcms/systemsettings_qwidgets/kcm_kgamma.so"
+dbus-daemon[2015]: Successfully activated service 'org.a11y.atspi.Registry'
+dbus-daemon[1542]: [session uid=1000 pid=1542 pidfd=5] Activating service name='ca.desrt.dconf' requested by ':1.27' (uid=1000 pid=2026 comm="/usr/bin/kded6")
+Xlib XKB extension major= 1  minor= 0
+dbus-daemon[1542]: [session uid=1000 pid=1542 pidfd=5] Successfully activated service 'ca.desrt.dconf'
+dbus-daemon[1542]: [session uid=1000 pid=1542 pidfd=5] Activating service name='org.kde.ActivityManager' requested by ':1.24' (uid=1000 pid=2122 comm="plasmashell -v")
+dbus-daemon[1542]: [session uid=1000 pid=1542 pidfd=5] Successfully activated service 'org.kde.ActivityManager'
+QDBusObjectPath: invalid path "/modules/oom-notifier"
+kf.dbusaddons: The kded module name "oom-notifier" is invalid!
+libEGL warning: egl: failed to create dri2 screen
+libEGL warning: egl: failed to create dri2 screen
+X server XKB extension major= 1  minor= 0
+libEGL warning: egl: failed to create dri2 screen
+libEGL warning: egl: failed to create dri2 screen
+Watching for DPMS state changes unimplemented
+New PolkitAgentListener  0x5571e003bdd0
+Adding new listener  PolkitQt1::Agent::Listener(0x5571e003bad0) for  0x5571e003bdd0
+Listener online
+libEGL warning: egl: failed to create dri2 screen
+Authentication agent result: true
+libEGL warning: egl: failed to create dri2 screen
+QDBusObjectPath: invalid path "/modules/plasma-session-shortcuts"
+kf.dbusaddons: The kded module name "plasma-session-shortcuts" is invalid!
+kf.config.kconf_update: /usr/share/kconf_update/filepicker.upd defined Version=5 but Version=6 was expected
+qt.dbus.integration: QDBusConnection: name 'org.freedesktop.UPower' had owner '' but we thought it was ':1.41'
+org.kde.powerdevil: org.kde.powerdevil.chargethresholdhelper.getthreshold failed "Charge thresholds are not supported by the kernel for this hardware"
+kf.modemmanagerqt: Failed enumerating MM objects: "org.freedesktop.DBus.Error.ServiceUnknown" 
+ "The name org.freedesktop.ModemManager1 was not provided by any .service files"
+org.kde.powerdevil: org.kde.powerdevil.backlighthelper.brightness failed
+Falha: A inicialização do módulo falhou
+kf.bluezqt: PendingCall Error: "The name org.bluez was not provided by any .service files"
+kf.bluezqt: PendingCall Error: "The name org.bluez.obex was not provided by any .service files"
+org.kde.pulseaudio: No object for name "alsa_output.pci-0000_00_03.0.analog-stereo.monitor"
+xsettingsd: Loaded 16 settings from /home/anon/.config/xsettingsd/xsettingsd.conf
+xsettingsd: Created window 0x1200001 on screen 0 with timestamp 27862
+xsettingsd: Selection _XSETTINGS_S0 is owned by 0x0
+xsettingsd: Took ownership of selection _XSETTINGS_S0
+org.kde.powerdevil: Handle button events action could not check for screen configuration
+org.kde.powerdevil: org.kde.powerdevil.chargethresholdhelper.getthreshold failed "Charge thresholds are not supported by the kernel for this hardware"
+kf.plasma.quick: Applet preload policy set to 1
+kpipewire_logging: error: "Falha ao conectar ao PipeWire" 0
+received error while creating the stream "Falha ao conectar ao PipeWire" Media monitor will not work.
+org.kde.pulseaudio: No object for name "alsa_output.pci-0000_00_03.0.analog-stereo.monitor"
+kpipewire_logging: error: "Falha ao conectar ao PipeWire" 0
+received error while creating the stream "Falha ao conectar ao PipeWire" Media monitor will not work.
+kpipewire_logging: error: "Falha ao conectar ao PipeWire" 0
+received error while creating the stream "Falha ao conectar ao PipeWire" Media monitor will not work.
+kf.kio.gui: Failed to determine systemd version, falling back to extremely legacy forking mode.
+libEGL warning: egl: failed to create dri2 screen
+libEGL warning: egl: failed to create dri2 screen
+The XKEYBOARD keymap compiler (xkbcomp) reports:
+> Warning:          Could not resolve keysym XF86RefreshRateToggle
+> Warning:          Could not resolve keysym XF86Accessibility
+> Warning:          Could not resolve keysym XF86DoNotDisturb
+Errors from xkbcomp are not fatal to the X server
+kpipewire_logging: error: "Falha ao conectar ao PipeWire" 0
+received error while creating the stream "Falha ao conectar ao PipeWire" Media monitor will not work.
+kpipewire_logging: error: "Falha ao conectar ao PipeWire" 0
+received error while creating the stream "Falha ao conectar ao PipeWire" Media monitor will not work.
+kpipewire_logging: error: "Falha ao conectar ao PipeWire" 0
+received error while creating the stream "Falha ao conectar ao PipeWire" Media monitor will not work.
+kpipewire_logging: error: "Falha ao conectar ao PipeWire" 0
+received error while creating the stream "Falha ao conectar ao PipeWire" Media monitor will not work.
+kpipewire_logging: error: "Falha ao conectar ao PipeWire" 0
+received error while creating the stream "Falha ao conectar ao PipeWire" Media monitor will not work.
+kpipewire_logging: error: "Falha ao conectar ao PipeWire" 0
+received error while creating the stream "Falha ao conectar ao PipeWire" Media monitor will not work.
+libEGL warning: egl: failed to create dri2 screen
+libEGL warning: egl: failed to create dri2 screen
+The XKEYBOARD keymap compiler (xkbcomp) reports:
+> Warning:          Could not resolve keysym XF86RefreshRateToggle
+> Warning:          Could not resolve keysym XF86Accessibility
+> Warning:          Could not resolve keysym XF86DoNotDisturb
+Errors from xkbcomp are not fatal to the X server
+kpipewire_logging: error: "Falha ao conectar ao PipeWire" 0
+received error while creating the stream "Falha ao conectar ao PipeWire" Media monitor will not work.
+kpipewire_logging: error: "Falha ao conectar ao PipeWire" 0
+received error while creating the stream "Falha ao conectar ao PipeWire" Media monitor will not work.
+kpipewire_logging: error: "Falha ao conectar ao PipeWire" 0
+received error while creating the stream "Falha ao conectar ao PipeWire" Media monitor will not work.
+kpipewire_logging: error: "Falha ao conectar ao PipeWire" 0
+received error while creating the stream "Falha ao conectar ao PipeWire" Media monitor will not work.
+kpipewire_logging: error: "Falha ao conectar ao PipeWire" 0
+received error while creating the stream "Falha ao conectar ao PipeWire" Media monitor will not work.
+kpipewire_logging: error: "Falha ao conectar ao PipeWire" 0
+received error while creating the stream "Falha ao conectar ao PipeWire" Media monitor will not work.
+libEGL warning: egl: failed to create dri2 screen
+libEGL warning: egl: failed to create dri2 screen
+qrc:/kcm/kcm_landingpage/main.qml:26:5: QML FormLayout: Binding loop detected for property "wideMode":
+qrc:/qt/qml/org/kde/kirigami/layouts/FormLayout.qml:72:5
+kpipewire_logging: error: "Falha ao conectar ao PipeWire" 0
+received error while creating the stream "Falha ao conectar ao PipeWire" Media monitor will not work.
+qrc:/kcm/kcm_keyboard/main.qml:304:13: QML FormLayout: Binding loop detected for property "wideMode":
+qrc:/qt/qml/org/kde/kirigami/layouts/FormLayout.qml:72:5
+qrc:/kcm/kcm_keyboard/main.qml:71:13: QML FormLayout: Binding loop detected for property "wideMode":
+qrc:/qt/qml/org/kde/kirigami/layouts/FormLayout.qml:72:5
+kpipewire_logging: error: "Falha ao conectar ao PipeWire" 0
+received error while creating the stream "Falha ao conectar ao PipeWire" Media monitor will not work.
+kpipewire_logging: error: "Falha ao conectar ao PipeWire" 0
+received error while creating the stream "Falha ao conectar ao PipeWire" Media monitor will not work.
+kpipewire_logging: error: "Falha ao conectar ao PipeWire" 0
+received error while creating the stream "Falha ao conectar ao PipeWire" Media monitor will not work.
+Cannot install element 'NumLockState' into protected module 'org.kde.plasma.private.kcm_keyboard' version '1'
+qrc:/kcm/kcm_keyboard/main.qml:304:13: QML FormLayout: Binding loop detected for property "wideMode":
+qrc:/qt/qml/org/kde/kirigami/layouts/FormLayout.qml:72:5
+qrc:/kcm/kcm_keyboard/main.qml:71:13: QML FormLayout: Binding loop detected for property "wideMode":
+qrc:/qt/qml/org/kde/kirigami/layouts/FormLayout.qml:72:5
+kpipewire_logging: error: "Falha ao conectar ao PipeWire" 0
+received error while creating the stream "Falha ao conectar ao PipeWire" Media monitor will not work.
+kpipewire_logging: error: "Falha ao conectar ao PipeWire" 0
+received error while creating the stream "Falha ao conectar ao PipeWire" Media monitor will not work.
+kpipewire_logging: error: "Falha ao conectar ao PipeWire" 0
+received error while creating the stream "Falha ao conectar ao PipeWire" Media monitor will not work.
+kpipewire_logging: error: "Falha ao conectar ao PipeWire" 0
+received error while creating the stream "Falha ao conectar ao PipeWire" Media monitor will not work.
+kpipewire_logging: error: "Falha ao conectar ao PipeWire" 0
+received error while creating the stream "Falha ao conectar ao PipeWire" Media monitor will not work.
+kpipewire_logging: error: "Falha ao conectar ao PipeWire" 0
+received error while creating the stream "Falha ao conectar ao PipeWire" Media monitor will not work.
+The XKEYBOARD keymap compiler (xkbcomp) reports:
+> Warning:          Unsupported maximum keycode 708, clipping.
+>                   X11 cannot support keycodes above 255.
+> Warning:          Virtual modifier Hyper multiply defined
+>                   Using 0, ignoring 0
+> Warning:          Virtual modifier ScrollLock multiply defined
+>                   Using 0, ignoring 0
+Errors from xkbcomp are not fatal to the X server
+The XKEYBOARD keymap compiler (xkbcomp) reports:
+> Warning:          Unsupported maximum keycode 708, clipping.
+>                   X11 cannot support keycodes above 255.
+> Warning:          Virtual modifier Hyper multiply defined
+>                   Using 0, ignoring 0
+> Warning:          Virtual modifier ScrollLock multiply defined
+>                   Using 0, ignoring 0
+Errors from xkbcomp are not fatal to the X server
+kpipewire_logging: error: "Falha ao conectar ao PipeWire" 0
+received error while creating the stream "Falha ao conectar ao PipeWire" Media monitor will not work.
+libEGL warning: egl: failed to create dri2 screen
+libEGL warning: egl: failed to create dri2 screen
+The XKEYBOARD keymap compiler (xkbcomp) reports:
+> Warning:          Could not resolve keysym XF86RefreshRateToggle
+> Warning:          Could not resolve keysym XF86Accessibility
+> Warning:          Could not resolve keysym XF86DoNotDisturb
+Errors from xkbcomp are not fatal to the X server
+kpipewire_logging: error: "Falha ao conectar ao PipeWire" 0
+received error while creating the stream "Falha ao conectar ao PipeWire" Media monitor will not work.
+kpipewire_logging: error: "Falha ao conectar ao PipeWire" 0
+received error while creating the stream "Falha ao conectar ao PipeWire" Media monitor will not work.
+libEGL warning: egl: failed to create dri2 screen
+libEGL warning: egl: failed to create dri2 screen
+qrc:/kcm/kcm_landingpage/main.qml:26:5: QML FormLayout: Binding loop detected for property "wideMode":
+qrc:/qt/qml/org/kde/kirigami/layouts/FormLayout.qml:72:5
+kpipewire_logging: error: "Falha ao conectar ao PipeWire" 0
+received error while creating the stream "Falha ao conectar ao PipeWire" Media monitor will not work.
+kpipewire_logging: error: "Falha ao conectar ao PipeWire" 0
+received error while creating the stream "Falha ao conectar ao PipeWire" Media monitor will not work.
+kpipewire_logging: error: "Falha ao conectar ao PipeWire" 0
+received error while creating the stream "Falha ao conectar ao PipeWire" Media monitor will not work.
+kpipewire_logging: error: "Falha ao conectar ao PipeWire" 0
+received error while creating the stream "Falha ao conectar ao PipeWire" Media monitor will not work.
+kpipewire_logging: error: "Falha ao conectar ao PipeWire" 0
+received error while creating the stream "Falha ao conectar ao PipeWire" Media monitor will not work.
+kpipewire_logging: error: "Falha ao conectar ao PipeWire" 0
+received error while creating the stream "Falha ao conectar ao PipeWire" Media monitor will not work.
+kf.coreaddons: KPluginFactory could not create a KDecoration3::DecorationThemeProvider instance from "/usr/lib/qt6/plugins/org.kde.kdecoration3/org.kde.oxygen.so"
+kf.coreaddons: KPluginFactory could not create a KDecoration3::DecorationThemeProvider instance from "/usr/lib/qt6/plugins/org.kde.kdecoration3/org.kde.breeze.so"
+Module 'org.kde.kwin.decoration' does not contain a module identifier directive - it cannot be protected from external registrations.
+kpipewire_logging: error: "Falha ao conectar ao PipeWire" 0
+received error while creating the stream "Falha ao conectar ao PipeWire" Media monitor will not work.
+kpipewire_logging: error: "Falha ao conectar ao PipeWire" 0
+received error while creating the stream "Falha ao conectar ao PipeWire" Media monitor will not work.
+kpipewire_logging: error: "Falha ao conectar ao PipeWire" 0
+received error while creating the stream "Falha ao conectar ao PipeWire" Media monitor will not work.
+Module 'org.kde.kwin.decoration' does not contain a module identifier directive - it cannot be protected from external registrations.
+aurorae: Couldn't find QML Decoration  ""
+kf.coreaddons: KPluginFactory could not create a KDecoration3::DecorationThemeProvider instance from "/usr/lib/qt6/plugins/org.kde.kdecoration3/org.kde.oxygen.so"
+kf.coreaddons: KPluginFactory could not create a KDecoration3::DecorationThemeProvider instance from "/usr/lib/qt6/plugins/org.kde.kdecoration3/org.kde.breeze.so"
+Module 'org.kde.kwin.decoration' does not contain a module identifier directive - it cannot be protected from external registrations.
+kpipewire_logging: error: "Falha ao conectar ao PipeWire" 0
+received error while creating the stream "Falha ao conectar ao PipeWire" Media monitor will not work.
+libEGL warning: egl: failed to create dri2 screen
+libEGL warning: egl: failed to create dri2 screen
+The XKEYBOARD keymap compiler (xkbcomp) reports:
+> Warning:          Could not resolve keysym XF86RefreshRateToggle
+> Warning:          Could not resolve keysym XF86Accessibility
+> Warning:          Could not resolve keysym XF86DoNotDisturb
+Errors from xkbcomp are not fatal to the X server
+kpipewire_logging: error: "Falha ao conectar ao PipeWire" 0
+received error while creating the stream "Falha ao conectar ao PipeWire" Media monitor will not work.
+kpipewire_logging: error: "Falha ao conectar ao PipeWire" 0
+received error while creating the stream "Falha ao conectar ao PipeWire" Media monitor will not work.
+kpipewire_logging: error: "Falha ao conectar ao PipeWire" 0
+received error while creating the stream "Falha ao conectar ao PipeWire" Media monitor will not work.
+kpipewire_logging: error: "Falha ao conectar ao PipeWire" 0
+received error while creating the stream "Falha ao conectar ao PipeWire" Media monitor will not work.
+kpipewire_logging: error: "Falha ao conectar ao PipeWire" 0
+received error while creating the stream "Falha ao conectar ao PipeWire" Media monitor will not work.
+kpipewire_logging: error: "Falha ao conectar ao PipeWire" 0
+received error while creating the stream "Falha ao conectar ao PipeWire" Media monitor will not work.
+kpipewire_logging: error: "Falha ao conectar ao PipeWire" 0
+received error while creating the stream "Falha ao conectar ao PipeWire" Media monitor will not work.
+libEGL warning: egl: failed to create dri2 screen
+libEGL warning: egl: failed to create dri2 screen
+The XKEYBOARD keymap compiler (xkbcomp) reports:
+> Warning:          Could not resolve keysym XF86RefreshRateToggle
+> Warning:          Could not resolve keysym XF86Accessibility
+> Warning:          Could not resolve keysym XF86DoNotDisturb
+Errors from xkbcomp are not fatal to the X server
+kpipewire_logging: error: "Falha ao conectar ao PipeWire" 0
+received error while creating the stream "Falha ao conectar ao PipeWire" Media monitor will not work.
+kpipewire_logging: error: "Falha ao conectar ao PipeWire" 0
+received error while creating the stream "Falha ao conectar ao PipeWire" Media monitor will not work.
+kpipewire_logging: error: "Falha ao conectar ao PipeWire" 0
+received error while creating the stream "Falha ao conectar ao PipeWire" Media monitor will not work.
+kpipewire_logging: error: "Falha ao conectar ao PipeWire" 0
+received error while creating the stream "Falha ao conectar ao PipeWire" Media monitor will not work.
+kpipewire_logging: error: "Falha ao conectar ao PipeWire" 0
+received error while creating the stream "Falha ao conectar ao PipeWire" Media monitor will not work.
