@@ -11,7 +11,7 @@ url="https://github.com/voidlinuxbr/${pkgname}"
 source=("git+${url}.git")
 md5sums=('SKIP')
 makedepends=()
-depends=(louvorja-piano)
+depends=(louvorja-piano vlc google-chrome)
 
 # Automatically detect and use the correct install file
 if [ -e "${pkgname}.install" ]; then
