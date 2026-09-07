@@ -1,0 +1,10 @@
+[General]
+ocrLanguages=equ
+
+[ImageSave]
+lastImageSaveAsLocation=file:///home/anon/Imagens/Capturas de tela/VoidBR-LouvorJA.png
+lastImageSaveLocation=file:///home/anon/Imagens/Capturas de tela/VoidBR-LouvorJA.png
+translatedScreenshotsFolder=Capturas de tela
+
+[VideoSave]
+translatedScreencastsFolder=Capturas de vídeo

@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0" xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks" xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info">
+  <bookmark href="file:///tmp/LOUVOJA/photo_2026-09-07_08-16-17.jpg" added="2026-09-07T11:20:29.034381Z" modified="2026-09-07T11:27:08.039755Z" visited="2026-09-07T11:20:29.034382Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Eye of GNOME" exec="'eog %u'" modified="2026-09-07T11:27:08.039754Z" count="6"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///tmp/LOUVOJA/photo_2026-09-07_08-16-30.jpg" added="2026-09-07T11:20:35.277461Z" modified="2026-09-07T11:27:10.566808Z" visited="2026-09-07T11:20:35.277462Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Eye of GNOME" exec="'eog %u'" modified="2026-09-07T11:27:10.566806Z" count="5"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///tmp/LOUVOJA/photo_2026-09-07_08-16-36.jpg" added="2026-09-07T11:20:36.748539Z" modified="2026-09-07T11:27:11.245081Z" visited="2026-09-07T11:20:36.748540Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Eye of GNOME" exec="'eog %u'" modified="2026-09-07T11:27:11.245078Z" count="5"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///tmp/LOUVOJA/photo_2026-09-07_08-16-39.jpg" added="2026-09-07T11:20:37.847779Z" modified="2026-09-07T11:27:11.928688Z" visited="2026-09-07T11:20:37.847780Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Eye of GNOME" exec="'eog %u'" modified="2026-09-07T11:27:11.928686Z" count="6"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///tmp/LOUVOJA/photo_2026-09-07_08-16-44.jpg" added="2026-09-07T11:20:40.692867Z" modified="2026-09-07T11:27:12.517235Z" visited="2026-09-07T11:20:40.692868Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Eye of GNOME" exec="'eog %u'" modified="2026-09-07T11:27:12.517234Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///tmp/LOUVOJA/photo_2026-09-07_08-16-48.jpg" added="2026-09-07T11:20:41.673195Z" modified="2026-09-07T11:27:13.201407Z" visited="2026-09-07T11:20:41.673196Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Eye of GNOME" exec="'eog %u'" modified="2026-09-07T11:27:13.201405Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///tmp/LOUVOJA/photo_2026-09-07_08-16-52.jpg" added="2026-09-07T11:20:42.804805Z" modified="2026-09-07T11:27:13.881270Z" visited="2026-09-07T11:20:42.804805Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Eye of GNOME" exec="'eog %u'" modified="2026-09-07T11:27:13.881268Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///tmp/LOUVOJA/photo_2026-09-07_08-16-55.jpg" added="2026-09-07T11:20:44.222396Z" modified="2026-09-07T11:27:14.553275Z" visited="2026-09-07T11:20:44.222396Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Eye of GNOME" exec="'eog %u'" modified="2026-09-07T11:27:14.553274Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///tmp/LOUVOJA/photo_2026-09-07_08-16-59.jpg" added="2026-09-07T11:20:45.460390Z" modified="2026-09-07T11:27:15.216903Z" visited="2026-09-07T11:20:45.460391Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Eye of GNOME" exec="'eog %u'" modified="2026-09-07T11:27:15.216902Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///tmp/LOUVOJA/photo_2026-09-07_08-17-02.jpg" added="2026-09-07T11:20:46.317206Z" modified="2026-09-07T11:27:15.862838Z" visited="2026-09-07T11:20:46.317206Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Eye of GNOME" exec="'eog %u'" modified="2026-09-07T11:27:15.862837Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///tmp/LOUVOJA/photo_2026-09-07_08-17-06.jpg" added="2026-09-07T11:20:47.346981Z" modified="2026-09-07T11:27:16.421896Z" visited="2026-09-07T11:20:47.346982Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Eye of GNOME" exec="'eog %u'" modified="2026-09-07T11:27:16.421895Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///usr/share/backgrounds/louvorja/photo_2026-09-07_08-16-39.jpg" added="2026-09-07T11:26:19.101000Z" modified="2026-09-07T11:51:26.605328Z" visited="2026-09-07T11:26:19.101000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="systemsettings" exec="systemsettings %f" modified="2026-09-07T11:26:19.101000Z" count="1"/>
+          <bookmark:application name="Eye of GNOME" exec="'eog %u'" modified="2026-09-07T11:51:26.605326Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///usr/share/backgrounds/louvorja/photo_2026-09-07_08-17-06.jpg" added="2026-09-07T11:29:28.436000Z" modified="2026-09-07T11:50:55.561696Z" visited="2026-09-07T11:29:28.436000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="org.kde.plasmashell" exec="/usr/bin/plasmashell %f" modified="2026-09-07T11:29:28.436000Z" count="1"/>
+          <bookmark:application name="Eye of GNOME" exec="'eog %u'" modified="2026-09-07T11:50:55.561695Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///usr/share/backgrounds/louvorja/icone.jpg" added="2026-09-07T11:43:33.124000Z" modified="2026-09-07T11:51:21.282523Z" visited="2026-09-07T11:43:33.124000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="org.kde.plasmashell" exec="/usr/bin/plasmashell %f" modified="2026-09-07T11:43:33.124000Z" count="1"/>
+          <bookmark:application name="Eye of GNOME" exec="'eog %u'" modified="2026-09-07T11:51:21.282522Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/anon/Imagens/Capturas%20de%20tela/VoidBR-LouvorJA.png" added="2026-09-07T11:44:30.843000Z" modified="2026-09-07T11:44:31.037000Z" visited="2026-09-07T11:44:31.037000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="org.kde.spectacle" exec="/usr/bin/spectacle %f" modified="2026-09-07T11:44:31.037000Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///usr/share/backgrounds/louvorja/photo_2026-09-07_08-16-17.jpg" added="2026-09-07T11:51:24.320221Z" modified="2026-09-07T11:51:24.320225Z" visited="2026-09-07T11:51:24.320222Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Eye of GNOME" exec="'eog %u'" modified="2026-09-07T11:51:24.320223Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///usr/share/backgrounds/louvorja/photo_2026-09-07_08-16-30.jpg" added="2026-09-07T11:51:25.173454Z" modified="2026-09-07T11:51:25.173458Z" visited="2026-09-07T11:51:25.173454Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Eye of GNOME" exec="'eog %u'" modified="2026-09-07T11:51:25.173456Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///usr/share/backgrounds/louvorja/photo_2026-09-07_08-16-36.jpg" added="2026-09-07T11:51:25.917272Z" modified="2026-09-07T11:51:25.917277Z" visited="2026-09-07T11:51:25.917273Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Eye of GNOME" exec="'eog %u'" modified="2026-09-07T11:51:25.917275Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///usr/share/backgrounds/louvorja/louvorja-wallpaper.jpg" added="2026-09-07T11:53:13.262000Z" modified="2026-09-07T11:53:13.262000Z" visited="2026-09-07T11:53:13.262000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="org.kde.plasmashell" exec="/usr/bin/plasmashell %f" modified="2026-09-07T11:53:13.262000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///usr/share/backgrounds/louvorja/louvorja-icone.jpg" added="2026-09-07T11:53:48.813000Z" modified="2026-09-07T11:53:48.813000Z" visited="2026-09-07T11:53:48.813000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="org.kde.plasmashell" exec="/usr/bin/plasmashell %f" modified="2026-09-07T11:53:48.813000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

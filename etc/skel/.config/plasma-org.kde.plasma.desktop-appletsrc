@@ -16,8 +16,17 @@ location=0
 plugin=org.kde.plasma.folder
 wallpaperplugin=org.kde.image
 
+[Containments][23][ConfigDialog]
+DialogHeight=688
+DialogWidth=1352
+
+[Containments][23][General]
+arrangement=1
+iconSize=2
+sortMode=6
+
 [Containments][23][Wallpaper][org.kde.image][General]
-Image=file:///usr/share/wallpapers/Honeywave/
+Image=file:///usr/share/backgrounds/louvorja/louvorja-wallpaper.jpg
 SlidePaths=/usr/share/wallpapers/
 
 [Containments][24]
@@ -34,12 +43,17 @@ immutability=1
 plugin=org.kde.plasma.kickoff
 
 [Containments][24][Applets][25][Configuration]
-PreloadWeight=100
 popupHeight=517
 popupWidth=629
 
+[Containments][24][Applets][25][Configuration][ConfigDialog]
+DialogHeight=630
+DialogWidth=810
+
 [Containments][24][Applets][25][Configuration][General]
 favoritesPortedToKAstats=true
+icon=/usr/share/backgrounds/louvorja/louvorja-icone.jpg
+systemFavorites=suspend\\,hibernate\\,reboot\\,shutdown
 
 [Containments][24][Applets][26]
 immutability=1
@@ -50,7 +64,7 @@ immutability=1
 plugin=org.kde.plasma.icontasks
 
 [Containments][24][Applets][27][Configuration][General]
-launchers=applications:systemsettings.desktop,preferred://browser,applications:org.kde.konsole.desktop
+launchers=applications:systemsettings.desktop,applications:org.kde.konsole.desktop,applications:org.kde.dolphin.desktop,preferred://browser,applications:firefox.desktop,applications:org.kde.louvorja-piano.desktop
 
 [Containments][24][Applets][28]
 immutability=1
@@ -116,11 +130,19 @@ plugin=org.kde.plasma.networkmanagement
 
 [Containments][24][Applets][29][Applets][43]
 immutability=1
-plugin=org.kde.plasma.brightness
+plugin=org.kde.plasma.bluetooth
 
 [Containments][24][Applets][29][Applets][44]
 immutability=1
 plugin=org.kde.plasma.battery
+
+[Containments][24][Applets][29][Applets][45]
+immutability=1
+plugin=org.kde.plasma.brightness
+
+[Containments][24][Applets][29][ConfigDialog]
+DialogHeight=630
+DialogWidth=810
 
 [Containments][24][Applets][29][General]
 extraItems=org.kde.plasma.clipboard,org.kde.plasma.cameraindicator,org.kde.plasma.manage-inputmethod,org.kde.plasma.keyboardlayout,org.kde.plasma.bluetooth,org.kde.kscreen,org.kde.plasma.weather,org.kde.plasma.keyboardindicator,org.kde.plasma.notifications,org.kde.plasma.brightness,org.kde.plasma.volume,org.kde.plasma.mediacontroller,org.kde.plasma.battery,org.kde.plasma.devicenotifier,org.kde.plasma.networkmanagement
@@ -143,4 +165,4 @@ AppletOrder=25;26;27;28;29;41;42
 
 [ScreenMapping]
 itemsOnDisabledScreens=
-screenMapping=desktop:/void-install.desktop,0,192f8d0e-d8e1-46a2-8e65-d689a4075721
+screenMapping=desktop:/google-chrome.desktop,0,192f8d0e-d8e1-46a2-8e65-d689a4075721,desktop:/vlc.desktop,0,192f8d0e-d8e1-46a2-8e65-d689a4075721,desktop:/org.kde.konsole.desktop,0,192f8d0e-d8e1-46a2-8e65-d689a4075721,desktop:/org.kde.louvorja-piano.desktop,0,192f8d0e-d8e1-46a2-8e65-d689a4075721,desktop:/firefox.desktop,0,192f8d0e-d8e1-46a2-8e65-d689a4075721,desktop:/void-install.desktop,0,192f8d0e-d8e1-46a2-8e65-d689a4075721,desktop:/org.kde.dolphin.desktop,0,192f8d0e-d8e1-46a2-8e65-d689a4075721
