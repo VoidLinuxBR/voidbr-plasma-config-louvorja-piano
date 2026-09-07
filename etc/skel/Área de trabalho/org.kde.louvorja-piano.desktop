@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=LouvorJA - PIANO
+Comment=Aplicativo desktop para gerenciamento de culto
+Exec=/usr/bin/louvorja-piano
+Icon=louvorja-piano
+Terminal=false
+Type=Application
+Categories=X-VoidBR-Apps;AudioVideo;Qt;KDE;AudioVideoEditing;
+StartupWMClass=louvorja-piano
+StartupNotify=true
+MimeType=application/x-louvorja-liturgy;
